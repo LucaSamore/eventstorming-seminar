@@ -12,6 +12,12 @@ EventStorming is a family of collaborative modelling workshop formats designed t
 
 In this seminar, we provide a structured overview of EventStorming, covering its main workshop formats, key principles, notation, and facilitation strategies. We also present a practical example to illustrate how EventStorming can be applied in a real-world context.
 
+## Case Study
+
+To illustrate how EventStorming can be applied in practice, we used [Nucleo](https://github.com/ToRenameTeam/Nucleo) as a running example throughout the seminar. Nucleo is a university project developed for the **Software Process Engineering** course, MSc in Computer Science and Engineering, University of Bologna.
+
+The full project documentation is available at [torenameteam.github.io/Nucleo](https://torenameteam.github.io/Nucleo/).
+
 ## References
 
 ### Books
